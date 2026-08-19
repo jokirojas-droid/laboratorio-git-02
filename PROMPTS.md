@@ -1,4 +1,3 @@
-# Bitácora de Interacción con IA - Agrotech Llano
 
 **Estudiante:**Johan Kirley Rojas Bobadilla
 **Asignatura:** Ingeniería de Software I
